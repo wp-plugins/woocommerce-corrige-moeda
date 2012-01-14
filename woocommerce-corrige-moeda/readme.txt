@@ -40,3 +40,4 @@ Mais informações na página do plugin [WooCommerce corrige moeda](http://www.v
 * Apenas a correção e nada mais =D
  
 == Screenshots ==
+1. Exemplo de como está a exibição dos preços no WooCommerce 1.3.2 e como este plugin deixará.
