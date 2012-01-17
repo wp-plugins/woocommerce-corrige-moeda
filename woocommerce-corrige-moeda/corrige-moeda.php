@@ -6,6 +6,7 @@
 	Version: 1.0
 	Author: John-Henrique <john@midianegocios.com.br>
 	Author URI: http://vibemidia.com
+	License: GPLv2
 	Requires at least: 3.1
 	Tested up to: 3.3
 */
