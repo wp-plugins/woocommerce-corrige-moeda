@@ -2,13 +2,13 @@
 /*
 Plugin Name: WooCommerce Corrige moeda
 Plugin URI: http://vibemidia.com/woocommerce
-Description: Corrige a moeda de exibição do WooCommerce de $ 20,00 e para R$ 20,00.
-Version: 1.0
+Description: Corrige a moeda de exibição do WooCommerce de $ 20,00 e para R$ 20,00 deixando a moeda no padrão monetário brasileiro.
+Version: 1.1
 Author: John-Henrique <john@midianegocios.com.br>
 Author URI: http://vibemidia.com
 License: GPLv2
-Requires at least: 3.1
-Tested up to: 3.3
+Requires at least: 3.0
+Tested up to: 3.3.1
 */
 /*
  *      Copyright 2012 John-Henrique <john@midianegocios.com.br>
