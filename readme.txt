@@ -1,7 +1,7 @@
 ﻿=== WooCommerce corrige moeda ===
-Contributors: John-Henrique<john@midianegocios.com.br>
+Contributors: hostdesigner, John-Henrique<john@midianegocios.com.br>
 Donate link: http://vibemidia.com/woocommerce
-Tags: WooCommerce, loja WordPress, Real do Brasil
+Tags: WooCommerce, loja WordPress, Real do Brasil, WooThemes, WordPress ecommerce, cart, shop, moeda, Brasil
 Requires at least: 3.0
 Tested up to: 3.3.1
 Stable tag: trunk
@@ -9,10 +9,25 @@ Stable tag: trunk
 
 == Description ==
  
-Controla a exibição da moeda de $ 20,00 para R$ 20,00. O simbolo da moeda exibida na loja WooCommerce passa a ficar correta em toda a loja.
+Por padrão o WooCommerce exibe a moeda com o símbolo $ (dólar) isto pode fazer os consumidores pensarem que o preço na loja está em Dólar, este plugin corrige a exibição da moeda em toda a 
+loja WooCommerce adicionando o símbolo R$, desta forma $ 20,00 passa a ser R$ 20,00. O simbolo da moeda Brasileira passa a ser exibida na loja WooCommerce ficando correta em toda a loja.
+
+Funciona em todas as versões do WooCommerce, nenhuma alteração na loja precisa ser feita, nada será alterado além da exibição da moeda Real do Brasil.
+
+= Precisa adicionar gateways de pagamento na sua loja? =
+Também desenvolvi outros plugins. A exemplo tenho os seguintes plugins para Gateway de pagamento e integração com cálculo de frete dos Correios
+
+* [WooCommerce PagSeguro](http://www.vibemidia.com/woocommerce-pagseguro)
+* [WooCommerce MoIP](http://www.vibemidia.com/woocommerce-moip)
+* [WooCommerce Pagamento Digital](http://www.vibemidia.com/woocommerce-pagamento-digital)
+* [WooCommerce Correios](http://www.vibemidia.com/woocommerce-correios-sedex)
  
 == Installation ==
  
+Caso você tenha baixado este plugin você pode fazer a instalação diretamente através do seu painel WordPress acessando Plugins -> Adicionar novo -> Fazer upload, 
+você também pode pesquisar no diretório de plugins (Plugins -> Adicionar novo -> Pesquisar) pelo nome do plugin "corrige moeda" e clicar em Instalar.
+
+= Instalação manual =
 Envie o plugin para a pasta wp-content/plugins/ e acesse a administração do WordPress. Agora basta ativar o plugin, tudo pronto.
  
 == License ==
@@ -40,4 +55,4 @@ Mais informações na página do plugin [WooCommerce corrige moeda](http://www.v
 * Apenas a correção e nada mais =D
  
 == Screenshots ==
-1. Exemplo de como está a exibição dos preços no WooCommerce 1.3.2 e como este plugin deixará.
+1. Exemplo de como está a exibição dos preços no WooCommerce 1.3.2.1 (e versões anteriores) e como este plugin deixará.
