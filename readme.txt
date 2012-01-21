@@ -9,8 +9,7 @@ Stable tag: trunk
 
 == Description ==
  
-Por padrão o WooCommerce exibe a moeda com o símbolo $ (dólar) isto pode fazer os consumidores pensarem que o preço na loja está em Dólar, este plugin corrige a exibição da moeda em toda a 
-loja WooCommerce adicionando o símbolo R$, desta forma $ 20,00 passa a ser R$ 20,00. O simbolo da moeda Brasileira passa a ser exibida na loja WooCommerce ficando correta em toda a loja.
+Por padrão o WooCommerce exibe a moeda com o símbolo $ (dólar) isto pode fazer os consumidores pensarem que o preço na loja está em Dólar, este plugin corrige a exibição da moeda em toda a loja WooCommerce adicionando o símbolo R$, desta forma $ 20,00 passa a ser R$ 20,00. O simbolo da moeda Brasileira passa a ser exibida na loja WooCommerce ficando correta em toda a loja.
 
 Funciona em todas as versões do WooCommerce, nenhuma alteração na loja precisa ser feita, nada será alterado além da exibição da moeda Real do Brasil.
 
